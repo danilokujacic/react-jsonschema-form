@@ -64,5 +64,6 @@
   "license": "MIT",
   "dependencies": {
     "react-icons": "^3.10.0"
-  }
+  },
+  "gitHead": "6d718544ee1c14ff09262450647f614e91d71f14"
 }
